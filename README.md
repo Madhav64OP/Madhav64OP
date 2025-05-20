@@ -5,9 +5,9 @@ Love to dive deep into Tech !!!
 <BR>
 ### More About Me
 
-- 🤖 Member of Robotics Club MaRS@ IIT Roorkee -> (https://mars.iitr.ac.in/)
-- ⚙️ Worked on Many Projects in the Field of Software Development, AI-ML, and Robotics.
-- 🎮 Love tech, tinkering, and exploring new things !!
+- 🤖 Member of Robotics Club MaRS @IIT Roorkee -> (https://mars.iitr.ac.in/)
+- ⚙️ Worked in the field of Software Development, AI-ML, and Robotics, always curious to explore more in the field of tech and engineering.
+
 
 
 ### 🛠️ Tech Stack & Tools
@@ -33,7 +33,7 @@ Love to dive deep into Tech !!!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
+<!--
 ### My Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Madhav64OP&label=Profile%20views&color=0e75b6&style=flat)
@@ -48,7 +48,7 @@ Love to dive deep into Tech !!!
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav64OP&layout=compact&theme=radical" />
 </p>
-
+-->
 
 
 
