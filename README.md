@@ -8,9 +8,17 @@ Love to dive deep into Tech !!!
 - 🤖 Member of Robotics Club MaRS @IIT Roorkee -> (https://mars.iitr.ac.in/)
 - ⚙️ Worked in the field of Software Development, AI-ML, and Robotics, always curious to explore more in the field of tech and engineering.
 
+### My tools Overview
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mongodb,express,react,nodejs,tailwind,bootstrap,py,pytorch,tensorflow,flask,selenium,sklearn,vercel,linux,ubuntu,ros,cmake,raspberrypi,mysql,vscode,git,bash,github" />
+  </a>
+</p>
 
+<br>
 
 ### 🛠️ Tech Stack & Tools
+
 
 ##### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
